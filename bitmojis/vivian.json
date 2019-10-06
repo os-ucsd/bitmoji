@@ -1,0 +1,27 @@
+{
+  "name": "Vivian",
+  "gender": "female",
+  "traits": {
+    "brow": "768",
+    "cheek_details": "-1",
+    "eyelash": "-1",
+    "eye_details": "934",
+    "face_lines": "-1",
+    "glasses": "-1",
+    "hair": "1259",
+    "hat": "1192",
+    "mouth": "1055",
+    "nose": "762",
+    "blush_tone": "16749739",
+    "brow_tone": "0",
+    "eyeshadow_tone": "11366322",
+    "hair_tone": "5587258",
+    "lipstick_tone": "8611708",
+    "pupil_tone": "5977116",
+    "skin_tone": "15838344",
+    "body": "9",
+    "breast": "0",
+    "face_proportion": "3"
+  },
+  "outfit": "1010239"
+}
