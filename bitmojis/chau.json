@@ -1,0 +1,27 @@
+{
+  "name": "Chau",
+  "gender": "male",
+  "traits": {
+    "beard": "1050",
+    "brow": "755",
+    "cheek_details": "-1",
+    "eye_details": "-1",
+    "face_lines": "1116",
+    "glasses": "1073",
+    "hair": "1284",
+    "hat": "-1",
+    "mouth": "763",
+    "nose": "761",
+    "beard_tone": "0",
+    "blush_tone": "-1",
+    "brow_tone": "0",
+    "eyeshadow_tone": "-1",
+    "hair_tone": "9734786",
+    "lipstick_tone": "-1",
+    "pupil_tone": "5977116",
+    "skin_tone": "1416510",
+    "body": "0",
+    "face_proportion": "0"
+  },
+  "outfit": "1010234"
+}
