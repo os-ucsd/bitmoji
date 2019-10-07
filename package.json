@@ -1,0 +1,16 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape tests/*.test.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "libmoji": "^2.3.0",
+    "node-fetch": "^2.6.0",
+    "tape": "^4.11.0"
+  }
+}
