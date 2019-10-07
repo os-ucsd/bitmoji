@@ -1,0 +1,27 @@
+{
+  "name": "",
+  "gender": "male",
+  "traits": {
+    "beard": "-1",
+    "brow": "755",
+    "cheek_details": "-1",
+    "eye_details": "939",
+    "face_lines": "942",
+    "glasses": "-1",
+    "hair": "813",
+    "hat": "1081",
+    "mouth": "763",
+    "nose": "761",
+    "beard_tone": "3875595",
+    "blush_tone": "-1",
+    "brow_tone": "0",
+    "eyeshadow_tone": "-1",
+    "hair_tone": "2566954",
+    "lipstick_tone": "-1",
+    "pupil_tone": "5977116",
+    "skin_tone": "11170379",
+    "body": "2",
+    "face_proportion": "3"
+  },
+  "outfit": "1018481"
+}
