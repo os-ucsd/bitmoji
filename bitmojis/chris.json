@@ -1,0 +1,27 @@
+{
+  "name": "Chris R.",
+  "gender": "male",
+  "traits": {
+    "beard": "-1",
+    "brow": "756",
+    "cheek_details": "-1",
+    "eye_details": "-1",
+    "face_lines": "-1",
+    "glasses": "959",
+    "hair": "754",
+    "hat": "1197",
+    "mouth": "763",
+    "nose": "761",
+    "beard_tone": "0",
+    "blush_tone": "16748658",
+    "brow_tone": "0",
+    "eyeshadow_tone": "14440532",
+    "hair_tone": "6700839",
+    "lipstick_tone": "-1",
+    "pupil_tone": "5977116",
+    "skin_tone": "16764057",
+    "body": "0",
+    "face_proportion": "1"
+  },
+  "outfit": "962370"
+}
