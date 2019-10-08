@@ -1,0 +1,27 @@
+{
+  "name": "Noah",
+  "gender": "male",
+  "traits": {
+    "beard": "738",
+    "brow": "760",
+    "cheek_details": "997",
+    "eye_details": "-1",
+    "face_lines": "-1",
+    "glasses": "1064",
+    "hair": "1299",
+    "hat": "-1",
+    "mouth": "990",
+    "nose": "1029",
+    "beard_tone": "5844766",
+    "blush_tone": "-1",
+    "brow_tone": "0",
+    "eyeshadow_tone": "9402035",
+    "hair_tone": "6700839",
+    "lipstick_tone": "-1",
+    "pupil_tone": "5977116",
+    "skin_tone": "15838344",
+    "body": "1",
+    "face_proportion": "1"
+  },
+  "outfit": "1017963"
+}
