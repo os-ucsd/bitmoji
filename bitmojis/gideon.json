@@ -1,0 +1,27 @@
+{
+  "name": "Gideon",
+  "gender": "male",
+  "traits": {
+    "brow": "671",
+    "cheek_details": "-1",
+    "eyelash": "-1",
+    "eye_details": "836",
+    "face_lines": "-1",
+    "glasses": "863",
+    "hair": "1363",
+    "hat": "-1",
+    "mouth": "1846",
+    "nose": "562",
+    "blush_tone": "-1",
+    "brow_tone": "1579000",
+    "eyeshadow_tone": "-1",
+    "hair_tone": "2030026",
+    "lipstick_tone": "-1",
+    "pupil_tone": "5900016",
+    "skin_tone": "16301200",
+    "body": "7",
+    "breast": "3",
+    "face_proportion": "4"
+  },
+  "outfit": "1018479"
+}
