@@ -1,0 +1,27 @@
+{
+  "name": "Sam",
+  "gender": "male",
+  "traits": {
+    "beard": "-1",
+    "brow": "755",
+    "cheek_details": "1000",
+    "eye_details": "-1",
+    "face_lines": "-1",
+    "glasses": "1068",
+    "hair": "1289",
+    "hat": "1195",
+    "mouth": "763",
+    "nose": "761",
+    "beard_tone": "0",
+    "blush_tone": "-1",
+    "brow_tone": "0",
+    "eyeshadow_tone": "-1",
+    "hair_tone": "2039326",
+    "lipstick_tone": "-1",
+    "pupil_tone": "5977116",
+    "skin_tone": "16691590",
+    "body": "2",
+    "face_proportion": "0"
+  },
+  "outfit": "1018224"
+}
