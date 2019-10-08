@@ -1,0 +1,27 @@
+{
+  "name": "Alex",
+  "gender": "male",
+  "traits": {
+    "beard": "742",
+    "brow": "758",
+    "cheek_details": "999",
+    "eye_details": "936",
+    "face_lines": "944",
+    "glasses": "1071",
+    "hair": "813",
+    "hat": "1173",
+    "mouth": "991",
+    "nose": "1026",
+    "beard_tone": "3615014",
+    "blush_tone": "-1",
+    "brow_tone": "3615014",
+    "eyeshadow_tone": "6881280",
+    "hair_tone": "5587258",
+    "lipstick_tone": "-1",
+    "pupil_tone": "3763125",
+    "skin_tone": "15838344",
+    "body": "5",
+    "face_proportion": "6"
+  },
+  "outfit": "889224"
+}
