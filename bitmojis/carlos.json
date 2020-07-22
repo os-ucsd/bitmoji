@@ -1,0 +1,28 @@
+{
+  "name": "Carlos",
+  "gender": "male",
+  "traits": {
+    "beard": "1051",
+    "brow": "759",
+    "cheek_details": "-1",
+    "eye_details": "-1",
+    "face_lines": "-1",
+    "glasses": "956",
+    "hair": "1263",
+    "hat": "1192",
+    "mouth": "763",
+    "nose": "761",
+    "beard_tone": "3615014",
+    "blush_tone": "-1",
+    "brow_tone": "0",
+    "eyeshadow_tone": "-1",
+    "hair_tone": "2566954",
+    "lipstick_tone": "-1",
+    "pupil_tone": "5977116",
+    "skin_tone": "16764057",
+    "body": "1",
+    "face_proportion": "0"
+  },
+  "outfit": "1018093"
+}
+
