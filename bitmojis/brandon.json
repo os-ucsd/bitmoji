@@ -1,0 +1,27 @@
+{
+  "name": "Brandon",
+  "gender": "male",
+  "traits": {
+    "beard": "-1",
+    "brow": "755",
+    "cheek_details": "-1",
+    "eye_details": "-1",
+    "face_lines": "-1",
+    "glasses": "-1",
+    "hair": "805",
+    "hat": "-1",
+    "mouth": "763",
+    "nose": "1023",
+    "beard_tone": "0",
+    "blush_tone": "-1",
+    "brow_tone": "0",
+    "eyeshadow_tone": "-1",
+    "hair_tone": "3613466",
+    "lipstick_tone": "-1",
+    "pupil_tone": "5977116",
+    "skin_tone": "11170379",
+    "body": "0",
+    "face_proportion": "1"
+  },
+  "outfit": "1018245"
+}
