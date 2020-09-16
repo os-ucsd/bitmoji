@@ -1,0 +1,27 @@
+{
+  "name": "Mia",
+  "gender": "female",
+  "traits": {
+    "brow": "771",
+    "cheek_details": "-1",
+    "eyelash": "793",
+    "eye_details": "-1",
+    "face_lines": "-1",
+    "glasses": "-1",
+    "hair": "1261",
+    "hat": "-1",
+    "mouth": "1056",
+    "nose": "1032",
+    "blush_tone": "16754088",
+    "brow_tone": "3615014",
+    "eyeshadow_tone": "-1",
+    "hair_tone": "4795690",
+    "lipstick_tone": "11082526",
+    "pupil_tone": "8404014",
+    "skin_tone": "15838344",
+    "body": "7",
+    "breast": "3",
+    "face_proportion": "6"
+  },
+  "outfit": "1018155"
+}
